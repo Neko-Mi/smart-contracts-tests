@@ -1,0 +1,30 @@
+syntax: glob
+build
+.classpath
+.project
+.settings
+.springBeans
+*.orig
+*.rej
+build.properties
+*.iml
+.idea
+*.swp
+*~
+rebel.xml
+target/*
+*/target/*
+*/$*
+*.log
+*.log.*
+*.todo
+.DS_Store
+*/overlays/**
+alf_data_dev
+src/test/properties/local/alfresco-global-dev.properties
+syntax: regexp
+desktop\.ini
+package-lock.json
+nodejs/*
+node_modules/*
+/.idea/
