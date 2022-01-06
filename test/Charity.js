@@ -1,7 +1,6 @@
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 const { expectRevert } = require('@openzeppelin/test-helpers');
-// const Charity = artifacts.require('./Charity.sol');
 
 
 describe("Charity contract", function () {

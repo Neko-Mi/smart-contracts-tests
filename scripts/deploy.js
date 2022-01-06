@@ -1,5 +1,4 @@
 async function main() {
-  // We get the contract to deploy
   const Charity = await ethers.getContractFactory('Charity');
   console.log('Deploying Charity...');
   const charity = await Charity.deploy();
