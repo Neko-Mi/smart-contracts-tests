@@ -1,0 +1,14 @@
+.exit
+await charity.makeDonation()
+(await charity.makeDonation()).toString();
+await charity.makeDonation().toString();
+await charity.makeDonation();
+charity
+const charity = await Charity.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3");
+const charity = await Charity
+const charity = await
+charity.makeDonation()
+chrity.makeDonation()
+const Charity = await ethers.getContractFactory("Charity");
+const Charity = await ethers
+.help

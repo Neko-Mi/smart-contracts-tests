@@ -20,8 +20,6 @@ target/*
 *.todo
 .DS_Store
 */overlays/**
-alf_data_dev
-src/test/properties/local/alfresco-global-dev.properties
 syntax: regexp
 desktop\.ini
 package-lock.json
