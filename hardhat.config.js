@@ -4,9 +4,9 @@ require("@nomiclabs/hardhat-waffle");
  * @type import('hardhat/config').HardhatUserConfig
  */
 
- const ALCHEMY_API_KEY = "17QNhVqTlXMYrnPBf8gFChe49bR9wHMI";
+ const ALCHEMY_API_KEY = "";
 
- const ROPSTEN_PRIVATE_KEY = "919642cac0c955eaf7117dfe7909040042c173c1233489b9610b5be10656d410";
+ const ROPSTEN_PRIVATE_KEY = "";
 
 
 module.exports = {
